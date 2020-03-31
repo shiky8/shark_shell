@@ -11,8 +11,11 @@ that just an idea you can write it in any programing language you want
 
 ![Image description2](https://github.com/shiky8/shark_shell/blob/master/shell_out_me.PNG)
 
-netcat
+
+you will need to run netcat
 
 nc -lvnp portNumber
+
+
 
 i hope you like it
